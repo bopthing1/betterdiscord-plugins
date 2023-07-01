@@ -50,7 +50,7 @@ class ToggleButton {
 				startupChime: !keyData,
 			};
 
-			console.log("e" + !keyData);
+			// console.log("e" + !keyData);
 
 			this.render();
 		});
